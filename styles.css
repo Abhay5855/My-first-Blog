@@ -59,6 +59,7 @@ hr {
     padding: 0.5rem 1rem;
     margin-top: 5rem;
     margin-bottom: 1rem;
+
 }
 
 .primary-link {
@@ -94,7 +95,7 @@ hr {
     background-color:var(--primary-color);
     color:white;
     padding:1rem;
-    border-bottom-left-radius: 1rem;
+    border-bottom-left-radius: 2rem;
 }
 .navigation .nav-brand {
     font-weight: bold;
@@ -368,4 +369,8 @@ div.desc {
 
 .projects7 {
     color: var(--h2-color);
+}
+
+h2 {
+    text-align: center;
 }
