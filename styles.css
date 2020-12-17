@@ -8,22 +8,24 @@
     --primary-color:#60A5FA;
     --dark-gray: #9CA3AF;
     --off-white:#F3F4F6;
-    --back-color:DodgerBlue;
+    /* --back-color:DodgerBlue; */
     --tw-text-opacity: 1;
     --he-color:#6B7280;
     --h2-color:#4C1D95;
-    --sec-color:#F87171;
+    /* --sec-color:#F87171; */
 }
 
 body {
-    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/checkerboard-cross.png");
+    background-color: #F3F4F6;
 }
+
+
 
 
 body h1{
     font-family: 'Castoro', serif;
     font-size: 52px;
-    color: var(--back-color);
+    color: #EF4444;
 
 }
 
@@ -72,7 +74,7 @@ hr {
 }
 
 .secondary-link {
-    color: var(--sec-color);
+    color: #EF4444;
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
     
@@ -180,7 +182,7 @@ hr {
 .info {
     display: block;
     padding: 14px 16px;
-    background-color:var(--back-color);
+    background-color:#EF4444;
     text-decoration: none;
     color: white;
     /* padding-left: 10px; */
@@ -319,7 +321,7 @@ div.desc {
 }
 
 .header7 .hd {
-    color: var(--back-color);
+    color: #EF4444;
     text-align: center; 
 
 }
@@ -372,3 +374,10 @@ div.desc {
 }
 
 
+.parag {
+    font-size: 20px;
+    background-color: #BFDBFE;
+    margin:3rem;
+    padding: 3rem;
+    
+}
